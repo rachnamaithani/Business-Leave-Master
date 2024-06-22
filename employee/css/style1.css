@@ -1,0 +1,15 @@
+
+      body{
+        background-image: linear-gradient(-20deg, #6e45e2 0%, #88d3ce 100%);
+        background-repeat: no-repeat;
+      }
+      .logincard,.logincontainer{
+        box-shadow: -3px 3px 30px #94a3e0;
+        border-radius: 30px;
+      }
+      .admin-pic{
+        top:-55px;
+        left:150px;
+        padding: 15px;
+        border-radius: 50%;
+      }
